@@ -1,4 +1,7 @@
-# Step 3 — Wiring (50 min)
+# Step 4 — Wiring (50 min)
+
+The Arduino Nano and the three A4988 drivers live in the printed **electronics box** you fitted in
+Step 3.7 — wire everything first, test, then tuck the breadboard into the box.
 
 **Golden rule: never plug/unplug a motor while power is on.** A4988 drivers die instantly from that.
 Wire everything with the 12 V supply unplugged and USB disconnected; double-check; then power up.

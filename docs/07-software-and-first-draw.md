@@ -1,4 +1,4 @@
-# Step 5 — Calibrate and Draw (60 min)
+# Step 6 — Calibrate and Draw (60 min)
 
 ## A. Install a G-code sender
 
@@ -23,7 +23,7 @@ For X, then Y:
 5. Repeat the 20 mm jog to confirm; iterate until it's within ~0.5 mm.
 
 For Z just verify pen-lift direction: jog **Z+5** → pen should lift. If it dives instead, invert Z
-with `$3` (see Step 4E).
+with `$3` (see Step 5E).
 
 ## C. Zero the pen ("work zero")
 

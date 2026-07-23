@@ -27,7 +27,7 @@ Work through these top-to-bottom — 90 % of first-build problems are on this pa
 
 | Symptom | Fix |
 |---------|-----|
-| Distances wrong (10 mm ≠ 10 mm) | Redo steps/mm calibration (Step 5B) |
+| Distances wrong (10 mm ≠ 10 mm) | Redo steps/mm calibration (Step 6B) |
 | Circles are ovals | X and Y calibrated differently — recalibrate both |
 | Wiggly/wobbly lines | Pen loose in holder · gear slipping on shaft (drop of super glue) · frame not screwed tight |
 | Pen drags between shapes | Increase pen-up height in the G-code (Z3 → Z5) |
@@ -44,6 +44,7 @@ Work through these top-to-bottom — 90 % of first-build problems are on this pa
 
 - Re-watch the relevant section of [the build video](https://youtu.be/og1506q67mo) — pause and
   compare your wiring frame-by-frame.
-- The comments on the video and the [Thingiverse page](https://www.thingiverse.com/thing:4607077)
-  "Comments" tab are full of people who hit the same issue.
+- The comments on the video, the [MakerWorld page](https://makerworld.com/ru/models/2632836-build-a-simple-3d-cnc-plotter#profileId-2907504),
+  and the [Thingiverse page](https://www.thingiverse.com/thing:4607077) are full of people who hit
+  the same issue.
 - GRBL's own wiki: [github.com/gnea/grbl/wiki](https://github.com/gnea/grbl/wiki)

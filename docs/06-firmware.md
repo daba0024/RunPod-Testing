@@ -1,4 +1,4 @@
-# Step 4 — Firmware: Put GRBL on the Arduino (30 min)
+# Step 5 — Firmware: Put GRBL on the Arduino (30 min)
 
 GRBL is free, battle-tested CNC firmware. You don't write any code — you install it once and then
 talk to it over USB.
@@ -76,7 +76,7 @@ $132=20
 
 What the important ones mean:
 - `$100/$101/$102` — steps per millimeter for X/Y/Z. **51 is a starting guess**; we calibrate it
-  precisely in Step 5. (Math: the modified 28BYJ-48 does ~2038 full steps per revolution; divided
+  precisely in Step 6. (Math: the modified 28BYJ-48 does ~2038 full steps per revolution; divided
   by the printed pinion's circumference ≈ 40 mm → ~51 steps/mm. Your printed gear may differ.)
 - `$110/$111` — max speed 500 mm/min. These geared motors are slow; faster = skipped steps.
 - `$120–122` — gentle acceleration so the light frame doesn't shake.

@@ -41,5 +41,5 @@ If **yes**: you're set — go to [Step 1: 3D printing](02-3d-printing.md).
 If **no**, you can still build this:
 - Public libraries and makerspaces often have printers you can use cheaply.
 - Online print services (Craftcloud, PCBWay, JLC3DP) will print and mail the parts — upload the STL
-  files from [Thingiverse](https://www.thingiverse.com/thing:4607077).
+  files from the [MakerWorld page](https://makerworld.com/ru/models/2632836-build-a-simple-3d-cnc-plotter#profileId-2907504).
 - A friend with a printer needs ~1 spool evening and ~300 g of filament.

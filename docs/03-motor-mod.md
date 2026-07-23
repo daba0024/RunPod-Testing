@@ -32,5 +32,7 @@ Repeat for all three motors. Mark them X, Y, Z with tape.
 | Coil 2 | **Pink + Orange** |
 | unused | Red |
 
-You'll connect these to the A4988 in the next step. If you ever see a motor *buzz and vibrate*
-instead of turning, it just means the coils are mixed up — swapping one coil's two wires fixes it.
+Next you'll press the printed gears onto these motors and mount them during
+[assembly (Step 3)](04-assembly.md), then wire the coils to the A4988 drivers in
+[Step 4](05-wiring.md). If you ever see a motor *buzz and vibrate* instead of turning, it just
+means the coils are mixed up — swapping one coil's two wires fixes it.
